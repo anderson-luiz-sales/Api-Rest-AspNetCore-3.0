@@ -1,3 +1,4 @@
+using ApiCliente.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApiClientes.Models
@@ -8,6 +9,6 @@ namespace ApiClientes.Models
             : base(options)
         { }
 
-        public DbSet<Clientes> Cliente {get; set;}
+        public DbSet<Cliente> Cliente {get; set;}
     }
 }

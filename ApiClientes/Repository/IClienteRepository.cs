@@ -1,4 +1,4 @@
-﻿using ApiClientes.Models;
+﻿using ApiCliente.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,11 +8,11 @@ namespace ApiClientes.Repository
 {
     public interface IClienteRepository
     {
-        void Add(Clientes user);
-        IEnumerable<Clientes> GetAll();
-        Clientes Find(long id);
+        void Add(Cliente user);
+        IEnumerable<Cliente> GetAll();
+        Cliente Find(long id);
         void Remove(long id);
-        void Update(Clientes user);
+        void Update(Cliente user);
 
     }
 }

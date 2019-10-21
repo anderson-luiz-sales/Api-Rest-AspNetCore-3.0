@@ -1,8 +1,9 @@
-﻿using System;
+﻿using ApiCliente.Models;
+using ApiClientes.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using ApiClientes.Models;
 
 namespace ApiClientes.Repository
 {
@@ -12,31 +13,31 @@ namespace ApiClientes.Repository
         public ClienteRepository(ClienteDbContext ctx)
         {
             _context = ctx;
-        }   
-        public void Add(Clientes clientes)
+        }
+        public void Add(Cliente clientes)
         {
             _context.Cliente.Add(clientes);
             _context.SaveChanges();
         }
 
-        public Clientes Find(long id)
+        public Cliente Find(long id)
         {
-            return _context.Cliente.FirstOrDefault(u => u.Id == id);
+            return _context.Cliente.FirstOrDefault(u => u.Id_Cli == id);
         }
 
-        public IEnumerable<Clientes> GetAll()
+        public IEnumerable<Cliente> GetAll()
         {
             return _context.Cliente.ToList();
         }
 
         public void Remove(long id)
         {
-            var entity = _context.Cliente.FirstOrDefault(u => u.Id == id);
+            var entity = _context.Cliente.FirstOrDefault(u => u.Id_Cli == id);
             _context.Cliente.Remove(entity);
             _context.SaveChanges();
         }
 
-        public void Update(Clientes cliente)
+        public void Update(Cliente cliente)
         {
             _context.Cliente.Update(cliente);
             _context.SaveChanges();

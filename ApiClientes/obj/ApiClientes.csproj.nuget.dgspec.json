@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Projeto Angular whit Asp.net core\\ApiClientes\\ApiClientes.csproj": {}
+    "E:\\Projetos\\dev\\Api-Rest-AspNetCore-3.0\\ApiClientes\\ApiClientes.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Projeto Angular whit Asp.net core\\ApiClientes\\ApiClientes.csproj": {
+    "E:\\Projetos\\dev\\Api-Rest-AspNetCore-3.0\\ApiClientes\\ApiClientes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Projeto Angular whit Asp.net core\\ApiClientes\\ApiClientes.csproj",
+        "projectUniqueName": "E:\\Projetos\\dev\\Api-Rest-AspNetCore-3.0\\ApiClientes\\ApiClientes.csproj",
         "projectName": "ApiClientes",
-        "projectPath": "C:\\dev\\Projeto Angular whit Asp.net core\\ApiClientes\\ApiClientes.csproj",
+        "projectPath": "E:\\Projetos\\dev\\Api-Rest-AspNetCore-3.0\\ApiClientes\\ApiClientes.csproj",
         "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Projeto Angular whit Asp.net core\\ApiClientes\\obj\\",
+        "outputPath": "E:\\Projetos\\dev\\Api-Rest-AspNetCore-3.0\\ApiClientes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,11 @@
-namespace ApiClientes.Models
+using System.ComponentModel.DataAnnotations;
+
+namespace ApiCliente.Models
 {
-    public class Clientes 
+    public class Cliente
     {
-        public int Id {get; set;}
+        [Key]
+        public int Id_Cli {get; set;}
         public string Nome {get; set;}
         public string Cidade {get; set;}
         public string Telefone {get; set;}
