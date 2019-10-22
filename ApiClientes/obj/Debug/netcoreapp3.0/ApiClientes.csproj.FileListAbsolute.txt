@@ -63,10 +63,10 @@ E:\Projetos\dev\Api-Rest-AspNetCore-3.0\ApiClientes\bin\Debug\netcoreapp3.0\runt
 E:\Projetos\dev\Api-Rest-AspNetCore-3.0\ApiClientes\obj\Debug\netcoreapp3.0\ApiClientes.csprojAssemblyReference.cache
 E:\Projetos\dev\Api-Rest-AspNetCore-3.0\ApiClientes\obj\Debug\netcoreapp3.0\staticwebassets\ApiClientes.StaticWebAssets.Manifest.cache
 E:\Projetos\dev\Api-Rest-AspNetCore-3.0\ApiClientes\obj\Debug\netcoreapp3.0\staticwebassets\ApiClientes.StaticWebAssets.xml
-E:\Projetos\dev\Api-Rest-AspNetCore-3.0\ApiClientes\obj\Debug\netcoreapp3.0\ApiClientes.MvcApplicationPartsAssemblyInfo.cache
 E:\Projetos\dev\Api-Rest-AspNetCore-3.0\ApiClientes\obj\Debug\netcoreapp3.0\ApiClientes.AssemblyInfoInputs.cache
 E:\Projetos\dev\Api-Rest-AspNetCore-3.0\ApiClientes\obj\Debug\netcoreapp3.0\ApiClientes.AssemblyInfo.cs
 E:\Projetos\dev\Api-Rest-AspNetCore-3.0\ApiClientes\obj\Debug\netcoreapp3.0\ApiClientes.RazorTargetAssemblyInfo.cache
 E:\Projetos\dev\Api-Rest-AspNetCore-3.0\ApiClientes\obj\Debug\netcoreapp3.0\ApiClientes.csproj.CopyComplete
 E:\Projetos\dev\Api-Rest-AspNetCore-3.0\ApiClientes\obj\Debug\netcoreapp3.0\ApiClientes.dll
 E:\Projetos\dev\Api-Rest-AspNetCore-3.0\ApiClientes\obj\Debug\netcoreapp3.0\ApiClientes.pdb
+E:\Projetos\dev\Api-Rest-AspNetCore-3.0\ApiClientes\obj\Debug\netcoreapp3.0\ApiClientes.MvcApplicationPartsAssemblyInfo.cache

@@ -48,6 +48,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "Square.OkHttp3": {
+              "target": "Package",
+              "version": "[3.0.1, )"
             }
           },
           "imports": [
